@@ -19,7 +19,7 @@ const Home: NextPage = () => {
             signIn();
           }}
         >
-          Loginn
+          Login
         </button>
       </main>
 
